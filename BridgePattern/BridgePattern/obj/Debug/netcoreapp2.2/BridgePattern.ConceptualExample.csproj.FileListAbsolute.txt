@@ -1,0 +1,11 @@
+E:\Documents\.NET Core projects (Learning)\Patterns\Bridge Pattern\BridgePattern\BridgePattern\bin\Debug\netcoreapp2.2\BridgePattern.ConceptualExample.deps.json
+E:\Documents\.NET Core projects (Learning)\Patterns\Bridge Pattern\BridgePattern\BridgePattern\bin\Debug\netcoreapp2.2\BridgePattern.ConceptualExample.runtimeconfig.json
+E:\Documents\.NET Core projects (Learning)\Patterns\Bridge Pattern\BridgePattern\BridgePattern\bin\Debug\netcoreapp2.2\BridgePattern.ConceptualExample.runtimeconfig.dev.json
+E:\Documents\.NET Core projects (Learning)\Patterns\Bridge Pattern\BridgePattern\BridgePattern\bin\Debug\netcoreapp2.2\BridgePattern.ConceptualExample.dll
+E:\Documents\.NET Core projects (Learning)\Patterns\Bridge Pattern\BridgePattern\BridgePattern\bin\Debug\netcoreapp2.2\BridgePattern.ConceptualExample.pdb
+E:\Documents\.NET Core projects (Learning)\Patterns\Bridge Pattern\BridgePattern\BridgePattern\obj\Debug\netcoreapp2.2\BridgePattern.ConceptualExample.csprojAssemblyReference.cache
+E:\Documents\.NET Core projects (Learning)\Patterns\Bridge Pattern\BridgePattern\BridgePattern\obj\Debug\netcoreapp2.2\BridgePattern.ConceptualExample.csproj.CoreCompileInputs.cache
+E:\Documents\.NET Core projects (Learning)\Patterns\Bridge Pattern\BridgePattern\BridgePattern\obj\Debug\netcoreapp2.2\BridgePattern.ConceptualExample.AssemblyInfoInputs.cache
+E:\Documents\.NET Core projects (Learning)\Patterns\Bridge Pattern\BridgePattern\BridgePattern\obj\Debug\netcoreapp2.2\BridgePattern.ConceptualExample.AssemblyInfo.cs
+E:\Documents\.NET Core projects (Learning)\Patterns\Bridge Pattern\BridgePattern\BridgePattern\obj\Debug\netcoreapp2.2\BridgePattern.ConceptualExample.dll
+E:\Documents\.NET Core projects (Learning)\Patterns\Bridge Pattern\BridgePattern\BridgePattern\obj\Debug\netcoreapp2.2\BridgePattern.ConceptualExample.pdb

@@ -1,0 +1,11 @@
+E:\Documents\.NET Core projects (Learning)\Patterns\Bridge Pattern\BridgePattern\BridgePattern.ChristoferOkhravi\bin\Debug\netcoreapp2.2\BridgePattern.ChristoferOkhravi.deps.json
+E:\Documents\.NET Core projects (Learning)\Patterns\Bridge Pattern\BridgePattern\BridgePattern.ChristoferOkhravi\bin\Debug\netcoreapp2.2\BridgePattern.ChristoferOkhravi.runtimeconfig.json
+E:\Documents\.NET Core projects (Learning)\Patterns\Bridge Pattern\BridgePattern\BridgePattern.ChristoferOkhravi\bin\Debug\netcoreapp2.2\BridgePattern.ChristoferOkhravi.runtimeconfig.dev.json
+E:\Documents\.NET Core projects (Learning)\Patterns\Bridge Pattern\BridgePattern\BridgePattern.ChristoferOkhravi\bin\Debug\netcoreapp2.2\BridgePattern.ChristoferOkhravi.dll
+E:\Documents\.NET Core projects (Learning)\Patterns\Bridge Pattern\BridgePattern\BridgePattern.ChristoferOkhravi\bin\Debug\netcoreapp2.2\BridgePattern.ChristoferOkhravi.pdb
+E:\Documents\.NET Core projects (Learning)\Patterns\Bridge Pattern\BridgePattern\BridgePattern.ChristoferOkhravi\obj\Debug\netcoreapp2.2\BridgePattern.ChristoferOkhravi.csprojAssemblyReference.cache
+E:\Documents\.NET Core projects (Learning)\Patterns\Bridge Pattern\BridgePattern\BridgePattern.ChristoferOkhravi\obj\Debug\netcoreapp2.2\BridgePattern.ChristoferOkhravi.csproj.CoreCompileInputs.cache
+E:\Documents\.NET Core projects (Learning)\Patterns\Bridge Pattern\BridgePattern\BridgePattern.ChristoferOkhravi\obj\Debug\netcoreapp2.2\BridgePattern.ChristoferOkhravi.AssemblyInfoInputs.cache
+E:\Documents\.NET Core projects (Learning)\Patterns\Bridge Pattern\BridgePattern\BridgePattern.ChristoferOkhravi\obj\Debug\netcoreapp2.2\BridgePattern.ChristoferOkhravi.AssemblyInfo.cs
+E:\Documents\.NET Core projects (Learning)\Patterns\Bridge Pattern\BridgePattern\BridgePattern.ChristoferOkhravi\obj\Debug\netcoreapp2.2\BridgePattern.ChristoferOkhravi.dll
+E:\Documents\.NET Core projects (Learning)\Patterns\Bridge Pattern\BridgePattern\BridgePattern.ChristoferOkhravi\obj\Debug\netcoreapp2.2\BridgePattern.ChristoferOkhravi.pdb
